@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 中文 Word2Vec 词向量训练项目
 
 基于 PyTorch 实现的中文 Word2Vec 词向量训练工具，使用 Skip-gram 模型从文本数据中学习词嵌入。
@@ -119,3 +120,7 @@ Word2VecModel(
 ## 许可证
 
 MIT License
+=======
+# wenbenshibie
+用于识别预测文本类容
+>>>>>>> d747a34f0da544e0597de331f38105bcbb5d48c9
