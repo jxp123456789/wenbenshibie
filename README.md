@@ -126,6 +126,6 @@ MIT License
 
 # wenbenshibie
 
-用于识别预测文本类容
+用于识别预测文本类内容
 
 >>>>>>> d747a34f0da544e0597de331f38105bcbb5d48c9
